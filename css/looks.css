@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+.mid{
+    text-align: center;
+}
+
+.mid1 {
+    text-align:left;  
+    margin-left:500px;
+ 
+}
+
+.mid3 {
+    text-align:left;  
+    margin-left:600px;
+ 
+}
+
+.mid2 {
+    text-align:left;  
+    margin-left:150px;
+ 
+}
+
+.mid4 {
+    text-align:left;  
+    margin-left:300px;
+ 
+}
+
+.cen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body{
+    position: relative;
+    background: url("https://wallpaperaccess.com/full/3378467.jpg") no-repeat center;
+    font-size: 16pt;
+    background-size: cover;
+    color: lightgoldenrodyellow;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    
+}
+
+table{
+    color: lightgoldenrodyellow;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+< h1{
+    text-align: center;
+    color: yellow;
+} 
+
+.over{
+    position: absolute;
+    background-color: rgba(0,0,0,0.9);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 0;
+}
